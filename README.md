@@ -35,6 +35,11 @@ Reports are rewarded based on **severity and impact**:
 ## 🤝 Acknowledgements
 Researchers who responsibly disclose vulnerabilities may be added to our **Hall of Fame** unless they wish to remain anonymous.
 
+## 🔗 Project Links
+- [DumpFun App](https://dumpfun.io)
+- [Whitepaper / Docs](https://docs.dumpfun.io)
+- [Bug Bounty Reports](https://github.com/dumpfun/security-reports)
+- [Contact Security](mailto:security@dumpfun.io)
 ---
 
 **Note:** DumpFun does not take legal action against good-faith security research that follows this policy.
